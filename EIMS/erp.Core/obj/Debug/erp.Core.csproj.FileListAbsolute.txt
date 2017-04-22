@@ -1,0 +1,7 @@
+F:\My Projects\EIMS\EIMS\erp.Core\bin\Debug\erp.Core.dll
+F:\My Projects\EIMS\EIMS\erp.Core\bin\Debug\erp.Core.pdb
+F:\My Projects\EIMS\EIMS\erp.Core\obj\Debug\erp.Core.csprojResolveAssemblyReference.cache
+F:\My Projects\EIMS\EIMS\erp.Core\obj\Debug\erp.Core.dll
+F:\My Projects\EIMS\EIMS\erp.Core\obj\Debug\erp.Core.pdb
+F:\My Projects\EIMS\EIMS\erp.Core\bin\Debug\Newtonsoft.Json.dll
+F:\My Projects\EIMS\EIMS\erp.Core\bin\Debug\Newtonsoft.Json.xml

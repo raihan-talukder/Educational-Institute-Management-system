@@ -1,0 +1,11 @@
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\erp.Repo.dll
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\erp.Repo.pdb
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\erp.Core.dll
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\erp.Entities.dll
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\Newtonsoft.Json.dll
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\erp.Core.pdb
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\erp.Entities.pdb
+F:\My Projects\EIMS\EIMS\erp.Repo\bin\Debug\Newtonsoft.Json.xml
+F:\My Projects\EIMS\EIMS\erp.Repo\obj\Debug\erp.Repo.csprojResolveAssemblyReference.cache
+F:\My Projects\EIMS\EIMS\erp.Repo\obj\Debug\erp.Repo.dll
+F:\My Projects\EIMS\EIMS\erp.Repo\obj\Debug\erp.Repo.pdb
